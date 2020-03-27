@@ -1,0 +1,15 @@
+{
+  "name": "gw2cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nminchow <noelminchow@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "go": "node index.js"
+  },
+  "dependencies": {
+    "gw2api-client": "^7.4.1",
+    "inquirer": "^7.1.0"
+  }
+}
